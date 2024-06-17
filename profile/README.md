@@ -1,12 +1,21 @@
-## Hi there 👋
+## Convention de nommage :  
 
-<!--
+## Bonnes pratiques GIT
 
-**Here are some ideas to get you started:**
+Nom du repository : nom-du-projet-parent-nom-du-projet-technologie-utilisée
+(Ex jeu concours :  virtual-showroom-jeu-concours-react)
+(Ex api opaline :   virtual-showroom-api-symfony)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Pour chaque repository :
+
+Une branche : 
+- main (production)
+- develop (pre-production)
+
+Validation des commit : Non applicable
+
+Exemple message commit : 
+Correction : git commit -m "fix : la correction effectuée"
+Fonctionnalité : git commit -m "feat : la fonctionnalité effectuée"
+
+Langue utilisée pour le nom des projets et les commits :  Français.

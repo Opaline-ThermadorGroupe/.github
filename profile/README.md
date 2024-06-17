@@ -5,8 +5,8 @@
 ### Nom du repository
 
 Nom-du-projet-parent-nom-du-projet-technologie-utilisée  
-(Ex jeu concours : `virtual-showroom-jeu-concours-react`)  
-(Ex api opaline : `virtual-showroom-api-symfony`)
+(Ex : jeu concours : `virtual-showroom-jeu-concours-react`)  
+(Ex : api opaline : `virtual-showroom-api-symfony`)
 
 ### Pour chaque repository
 

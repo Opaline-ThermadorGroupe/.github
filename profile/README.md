@@ -1,21 +1,28 @@
-## Convention de nommage :  
+## Convention de nommage
 
 ## Bonnes pratiques GIT
 
-Nom du repository : nom-du-projet-parent-nom-du-projet-technologie-utilisée
-(Ex jeu concours :  virtual-showroom-jeu-concours-react)
-(Ex api opaline :   virtual-showroom-api-symfony)
+### Nom du repository
 
-Pour chaque repository :
+Nom-du-projet-parent-nom-du-projet-technologie-utilisée  
+(Ex jeu concours : `virtual-showroom-jeu-concours-react`)  
+(Ex api opaline : `virtual-showroom-api-symfony`)
 
-Une branche : 
-- main (production)
-- develop (pre-production)
+### Pour chaque repository
 
-Validation des commit : Non applicable
+Une branche :
+- `main` (production)
+- `develop` (pre-production)
 
-Exemple message commit : 
-Correction : git commit -m "fix : la correction effectuée"
-Fonctionnalité : git commit -m "feat : la fonctionnalité effectuée"
+### Validation des commit
 
-Langue utilisée pour le nom des projets et les commits :  Français.
+Non applicable
+
+### Exemple message commit
+
+- **Correction** : `git commit -m "fix : la correction effectuée"`
+- **Fonctionnalité** : `git commit -m "feat : la fonctionnalité effectuée"`
+
+### Langue utilisée pour le nom des projets et les commits
+
+Français

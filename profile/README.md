@@ -12,6 +12,7 @@ Nom-du-projet-parent-nom-du-projet-technologie-utilisée
 
 Une branche :
 - `main` (production)
+- `staging` (recette)
 - `develop` (pre-production)
 
 ### Validation des commit

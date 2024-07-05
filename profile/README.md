@@ -1,7 +1,3 @@
-## Convention de nommage
-
-## Bonnes pratiques GIT
-
 ### Nom du repository
 
 Nom-du-projet-parent-nom-du-projet-technologie-utilisée  
